@@ -1,0 +1,6 @@
+BeautifulSoup==3.2.1
+beautifulsoup4==4.3.2
+hashlib==20081119
+logging==0.4.9.6
+pymongo==2.8
+requests==2.6.0
